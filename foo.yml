@@ -5,3 +5,6 @@ eureka:
     registryFetchIntervalSeconds: 5
     serviceUrl:
       defaultZone: http://localhost:8600/EurekaServer/eureka
+
+test:
+  foo: "youpi"
