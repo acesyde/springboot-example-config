@@ -8,5 +8,5 @@ logging:
     file: "C:\\MXDMP\\logs\\smartappscenter.eureka\\service.log"
     level:
         root: WARN
-        org.springframework.web: DEBUG
+        org.springframework.web: WARN
         org.hibernate: ERROR
