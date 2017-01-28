@@ -4,3 +4,9 @@ eureka:
   client:
     fetchRegistry: false
     registerWithEureka: false
+logging:
+    file: "C:\\MXDMP\\logs\\smartappscenter.eureka\\service.log"
+    level:
+        root: WARN
+        org.springframework.web: DEBUG
+        org.hibernate: ERROR
